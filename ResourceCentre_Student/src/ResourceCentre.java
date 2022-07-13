@@ -181,6 +181,8 @@ public class ResourceCentre {
 	}	
 	public static void addChromebook(ArrayList<Chromebook> chromebookList, Chromebook cb) {
 		// write your code here
+		chromebookList.add(cb);
+		
 	}
 	
 	//================================= Option 3 Loan an item (CRUD - Update) =================================
